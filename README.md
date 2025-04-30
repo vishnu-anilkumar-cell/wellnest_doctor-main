@@ -54,20 +54,3 @@ The **Wellnest Doctor-side Mobile Application** is designed to assist doctors in
       flutter run --target-platform ios
       ```
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Flutter for cross-platform development.
-- Firebase for push notifications and real-time data.
-- E-MOGRAM system for mental health support and sentiment analysis.
